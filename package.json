@@ -1,0 +1,27 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "First App tutorial from electronjs.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenLaw/electron-first-app.git"
+  },
+  "keywords": [
+    "electron",
+    "tutorial"
+  ],
+  "author": "GitHub (Steven Law)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenLaw/electron-first-app/issues"
+  },
+  "homepage": "https://github.com/StevenLaw/electron-first-app#readme",
+  "devDependencies": {
+    "electron": "^3.0.0"
+  }
+}
